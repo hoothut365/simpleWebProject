@@ -14,7 +14,13 @@ body {
   }
   #eth
   {
-    color:#6184a2
+    color:#6184a2;
+  }
+  #doge{
+    color : #bf8923;
+  }
+  #ada{
+    color:#4eaeaf;
   }
   section {
     flex: 1 1 50%;
